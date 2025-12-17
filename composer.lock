@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "238637eb277430738fb54fdcd1d0e9ee",
+    "packages": [
+        {
+            "name": "user/piza-librari",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nfhfuhe/PizaLibrari.git",
+                "reference": "0adaea36c2b0f7c0f73f38a42527ac983cc3b312"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nfhfuhe/PizaLibrari/zipball/0adaea36c2b0f7c0f73f38a42527ac983cc3b312",
+                "reference": "0adaea36c2b0f7c0f73f38a42527ac983cc3b312",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "User\\PizaLibrari\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "nfhfuhe",
+                    "email": "vova28072007@mail.ru"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/nfhfuhe/PizaLibrari/tree/master",
+                "issues": "https://github.com/nfhfuhe/PizaLibrari/issues"
+            },
+            "time": "2025-12-17T14:03:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "user/piza-librari": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "user/dodo-piza",
+    "autoload": {
+        "psr-4": {
+            "lab6\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nfhfuhe",
+            "email": "vova28072007@mail.ru"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nfhfuhe/PizaLibrari"
+        }
+    ],
+    "require": {
+        "user/piza-librari": "dev-master"
+    }
+}

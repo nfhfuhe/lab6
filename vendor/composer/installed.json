@@ -1,0 +1,42 @@
+{
+    "packages": [
+        {
+            "name": "user/piza-librari",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nfhfuhe/PizaLibrari.git",
+                "reference": "0adaea36c2b0f7c0f73f38a42527ac983cc3b312"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nfhfuhe/PizaLibrari/zipball/0adaea36c2b0f7c0f73f38a42527ac983cc3b312",
+                "reference": "0adaea36c2b0f7c0f73f38a42527ac983cc3b312",
+                "shasum": ""
+            },
+            "time": "2025-12-17T14:03:04+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "User\\PizaLibrari\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "nfhfuhe",
+                    "email": "vova28072007@mail.ru"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/nfhfuhe/PizaLibrari/tree/master",
+                "issues": "https://github.com/nfhfuhe/PizaLibrari/issues"
+            },
+            "install-path": "../user/piza-librari"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
